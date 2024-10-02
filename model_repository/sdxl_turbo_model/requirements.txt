@@ -1,0 +1,7 @@
+torch
+diffusers
+transformers
+onnxruntime-gpu
+numpy
+triton_python_backend_utils
+opencv-python
